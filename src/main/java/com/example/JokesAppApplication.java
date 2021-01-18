@@ -1,4 +1,4 @@
-package com.example.jokes_app;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
